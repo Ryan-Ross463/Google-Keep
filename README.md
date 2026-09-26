@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Google Keep Clone
 
 A simplified clone of Google Keep built with vanilla HTML, CSS, and JavaScript. Create, edit, archive, and view notes with a UI modeled after the real Google Keep app.
@@ -17,3 +18,6 @@ No build step or dependencies are required.
 2. Open [index.html](index.html) directly in a browser, **or** serve it locally, e.g.: npx serve .
 3. Start creating notes — they are stored in the browser's `localStorage`.
 
+=======
+# Google-Keep
+>>>>>>> b1bfb789064f4f94acb86c673cb9fd57960a5004
